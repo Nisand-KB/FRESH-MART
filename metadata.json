@@ -1,0 +1,7 @@
+{
+  "name": "FreshMart Supermarket",
+  "description": "A high-performance, mobile-first supermarket ordering app with catalog browsing, smart search, and WhatsApp order fulfillment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
